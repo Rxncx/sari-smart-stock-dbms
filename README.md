@@ -6,7 +6,6 @@ This repository contains the database schema, sample records, and queries for th
 - **schema/** → SQL scripts for table creation (3NF normalized).
 - **sample-data/** → SQL scripts with sample records.
 - **queries/** → Example queries (basic, intermediate, advanced).
-- **docs/** → Project documentation (proposal, ERD, normalization notes).
 
 ## Objectives
 - Prevent food spoilage by monitoring expiration dates.
